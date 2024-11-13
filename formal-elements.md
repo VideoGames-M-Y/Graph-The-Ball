@@ -33,9 +33,9 @@
 
 ### 4. חוקים
 
-* !!!!!!!!!!!
-* !!!!!!!!!!!
-* !!!!!!!!!!!
+* על השחקן לאסוף את כל המטבעות בדרך, אחרת לא יעבור את השלב
+* לכדור אסור לגעת במכשולים שבדרך- מפלצות הצירים
+* ניתן להשתמש בכל שלב רק בשתי פונקציות, אך מעבר השלב בעזרת פונקציה אחת יזכה בנקודות נוספות
 
 
 ### 5. משאבים
@@ -68,13 +68,22 @@
 
 1.  Crayon Physics Deluxe
 
+    ![image](https://github.com/user-attachments/assets/754d4e62-86c7-4034-9dd4-dd77ebd5d70b)
+
+
     https://youtu.be/K9R1MYxK2C8?si=13VRovTOR0_VFBTO
 
-2.  Crayon Physics Deluxe
+2.  Fantastic Contraption
 
-    https://youtu.be/YCnnJXMi8KE?si=qrwi_8yPcBC9YG17
+    ![image](https://github.com/user-attachments/assets/c5223f2f-fb17-4744-a38b-891354a4c517)
+
+
+    https://youtu.be/MQiVpiYW-6I?si=REGPWUxjRd1HksIj
 
 3. Line Rider
+
+   ![image](https://github.com/user-attachments/assets/594a20a9-3259-4d77-9b75-ea62ca75ef51)
+
 
    https://youtu.be/E9ejYNrJq3s?si=PyR0I-ex8jZ9l5UN
 
