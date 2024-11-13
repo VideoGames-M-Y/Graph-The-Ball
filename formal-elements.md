@@ -1,8 +1,8 @@
 <div dir='rtl' lang='he'>
 
-# כותרת ראשית: שם המשחק
+# Graph The Ball
 
-**tagline: משפט שיווקי קצר וקליט המתאר את המשחק**
+**When the lines ends- the fun begins**
 
 ## מהות המשחק
 
