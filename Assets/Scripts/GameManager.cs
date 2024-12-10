@@ -41,9 +41,7 @@ public class GraphManager : MonoBehaviour
     {
         try
         {
-
             function = function.Replace("x", x.ToString());
-
             function = function.Replace("--", "+");
 
             var result = new System.Data.DataTable().Compute(function, "");
