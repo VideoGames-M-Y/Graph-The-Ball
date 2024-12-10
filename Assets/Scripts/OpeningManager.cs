@@ -1,15 +1,18 @@
 using UnityEngine;
 using UnityEngine.SceneManagement;
 
-public class OpeningManager : MonoBehaviour{
-    [SerializeField] float delay = 2f; 
-    [SerializeField] string mainSceneName = "SampleScene"; 
+public class OpeningManager : MonoBehaviour
+{
+    [SerializeField] float delay = 2f;
+    [SerializeField] string mainSceneName = "SampleScene";
 
-    void Start(){
+    void Start()
+    {
         Invoke("LoadMainScene", delay);
     }
 
-    void LoadMainScene(){
+    void LoadMainScene()
+    {
         SceneManager.LoadScene(mainSceneName);
     }
 }
