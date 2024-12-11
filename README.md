@@ -8,3 +8,6 @@ Since each stage has several ways to go, three coins will appear on the screen t
 
 # HOW TO PLAY:
 use your mind and linear knowledge and write a algebraic equation in the window on the top left of the screen to create a route from left to right (that will be the path for the ball to travel in the future).
+
+מטלה 4:
+https://matanyocheved.itch.io/ex4-graph-the-ball
